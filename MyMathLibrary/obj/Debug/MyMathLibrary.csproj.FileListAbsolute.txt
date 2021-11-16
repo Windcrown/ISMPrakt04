@@ -1,0 +1,6 @@
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\bin\Debug\MyMathLibrary.dll
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\bin\Debug\MyMathLibrary.pdb
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\obj\Debug\MyMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\obj\Debug\MyMathLibrary.dll
+C:\Users\Dimon\source\repos\ISMPrakt04\MyMathLibrary\obj\Debug\MyMathLibrary.pdb
